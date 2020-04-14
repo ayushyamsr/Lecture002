@@ -3,7 +3,7 @@ var student={
   type:"student"
 };
 
-documnt.addEventListener('DOMContentLoaded',contentLoaded);
+document.addEventListener('DOMContentLoaded',contentLoaded);
 
 function contentLoaded(event)
 {
